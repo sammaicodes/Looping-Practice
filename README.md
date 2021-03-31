@@ -1,4 +1,4 @@
-# Programming Journey
+# Practicing Looping
 
 ####  A Project Implementing Basic HTML and CSS
 
